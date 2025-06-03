@@ -78,7 +78,7 @@ Me chamo Amom Reis, sou universitário na Universidade do Estado do Pará e tenh
   align="left" 
   alt="Docker" 
   title="Docker"
-  width="35px" 
+  width="40px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"         
 />
