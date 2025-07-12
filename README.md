@@ -13,9 +13,10 @@ Hi! I'm Amom Reis, a software engineering student at the State University of Par
 Right now, I'm working on a micro SaaS platform tailored for small businesses — aiming to deliver reliable, scalable solutions that grow alongside my clients’ needs.
 
 I'm always looking to learn, improve, and collaborate on meaningful projects.
+
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 
 <img
@@ -104,7 +105,7 @@ I'm always looking to learn, improve, and collaborate on meaningful projects.
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
