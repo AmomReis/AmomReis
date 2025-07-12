@@ -4,7 +4,11 @@
 
 Me chamo Amom Reis, sou universitário na Universidade do Estado do Pará e tenho grande interesse em desenvolvimento back-end. Atualmente estou no final do 4º período e estudando Spring Boot para aplicações web. Paralelamente, estou desenvolvendo um micro SaaS voltado para pequenos negócios, com o objetivo de construir soluções confiáveis que evoluam junto com as necessidades dos meus clientes.
 
-My name is Amom Reis, I'm a student at the State University of Pará, and I'm passionate about back-end development. I'm currently in my fourth year of high school and studying Spring Boot for web applications. I'm also developing a micro SaaS platform for small businesses, aiming to build reliable solutions that evolve with my clients' needs.
+Hi! I'm Amom Reis, a software engineering student at the State University of Pará with a strong passion for back-end development. I'm currently in my fourth year, focusing on building web applications with Spring Boot.
+
+Right now, I'm working on a micro SaaS platform tailored for small businesses — aiming to deliver reliable, scalable solutions that grow alongside my clients’ needs.
+
+I'm always looking to learn, improve, and collaborate on meaningful projects.
 ---
 
 ### 🤖 Linguagens e Tecnologias
