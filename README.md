@@ -2,17 +2,17 @@
 
 **`Desenvolvedor Back-end`**
 
-Olá! Me chamo Amom Reis, sou estudante de Engenharia de Software na Universidade do Estado do Pará e tenho uma grande paixão por desenvolvimento back-end. Atualmente estou no quarto ano, com foco na construção de aplicações web utilizando Spring Boot.
-
-No momento, estou desenvolvendo uma plataforma micro SaaS voltada para pequenos negócios — com o objetivo de entregar soluções confiáveis e escaláveis, que evoluam junto com as necessidades dos meus clientes.
-
-Estou sempre em busca de aprendizado, melhoria contínua e colaboração em projetos que façam a diferença.
-
 Hi! I'm Amom Reis, a software engineering student at the State University of Pará with a strong passion for back-end development. I'm currently in my fourth year, focusing on building web applications with Spring Boot.
 
 Right now, I'm working on a micro SaaS platform tailored for small businesses — aiming to deliver reliable, scalable solutions that grow alongside my clients’ needs.
 
 I'm always looking to learn, improve, and collaborate on meaningful projects.
+
+Olá! Me chamo Amom Reis, sou estudante de Engenharia de Software na Universidade do Estado do Pará e tenho uma grande paixão por desenvolvimento back-end. Atualmente estou no quarto ano, com foco na construção de aplicações web utilizando Spring Boot.
+
+No momento, estou desenvolvendo uma plataforma micro SaaS voltada para pequenos negócios — com o objetivo de entregar soluções confiáveis e escaláveis, que evoluam junto com as necessidades dos meus clientes.
+
+Estou sempre em busca de aprendizado, melhoria contínua e colaboração em projetos que façam a diferença.
 
 ---
 
