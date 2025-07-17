@@ -108,7 +108,15 @@ Estou sempre em busca de aprendizado, melhoria contínua e colaboração em proj
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
-/>          
+/>
+<img 
+  align="left" 
+  alt="MySQL" 
+  title="MySQL"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"          
+/>
 
 <br/>
 <br/>
