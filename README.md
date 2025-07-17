@@ -100,7 +100,6 @@ Estou sempre em busca de aprendizado, melhoria contínua e colaboração em proj
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
-          
 <img 
   align="left" 
   alt="Postman" 
@@ -123,7 +122,32 @@ Estou sempre em busca de aprendizado, melhoria contínua e colaboração em proj
   title="Intellij"
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+/>
+<img 
+  align="left" 
+  alt="eclipse" 
+  title="Eclipse"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg"
+/>
+<img 
+  align="left" 
+  alt="VScode" 
+  title="VScode"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+<img 
+  align="left" 
+  alt="Hibernate" 
+  title="Hibernate"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg"
+/>
 <br/>
 <br/>
 
