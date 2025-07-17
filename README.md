@@ -148,6 +148,7 @@ Estou sempre em busca de aprendizado, melhoria contínua e colaboração em proj
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg"
 />
+<br/>
 <img 
   align="left" 
   alt="Maven" 
