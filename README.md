@@ -16,7 +16,7 @@ Estou sempre em busca de aprendizado, melhoria contínua e colaboração em proj
 
 ---
 
-### 🤖 Languages and Technologies
+### 🤖 Languages, Technologies and Tools
 
 
 <img
