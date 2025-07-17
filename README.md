@@ -117,7 +117,13 @@ Estou sempre em busca de aprendizado, melhoria contínua e colaboração em proj
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"          
 />
-
+<img 
+  align="left" 
+  alt="Intellij" 
+  title="Intellij"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
 <br/>
 <br/>
 
