@@ -130,7 +130,7 @@ Estou sempre em busca de aprendizado, melhoria contínua e colaboração em proj
   title="Eclipse"
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"
 />
 <img 
   align="left" 
