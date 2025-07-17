@@ -107,7 +107,7 @@ Estou sempre em busca de aprendizado, melhoria contínua e colaboração em proj
   title="Postman"
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />          
 
 <br/>
