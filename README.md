@@ -166,6 +166,14 @@ Estou sempre em busca de aprendizado, melhoria contínua e colaboração em proj
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg"
 />
+<img 
+  align="left" 
+  alt="PostgresSQL" 
+  title="PostgresSQL"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
 <br/>
 <br/>
 
