@@ -23,54 +23,36 @@ Gosto de aprender, evoluir e participar de projetos que impactam positivamente.
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<style>
-  .icon-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 12px;
-    padding: 16px;
-  }
+<p align="center">
+  <!-- Linguagens e Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="Gradle" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" alt="Hibernate" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40" />
+  
+  <!-- Web -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" />
 
-  .icon-container img {
-    width: 48px;
-    height: 48px;
-    transition: transform 0.2s ease;
-  }
+  <!-- IDEs -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" height="40" />
 
-  .icon-container img:hover {
-    transform: scale(1.1);
-  }
-</style>
+  <!-- Controle de Versão -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="40" />
 
-<div class="icon-container">
-  <!-- skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring" />
-  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" title="Kotlin" />
-  <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" title="Hibernate" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />
-  <img src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven" />
-  <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" title="Gradle" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" />
-  <img src="https://skillicons.dev/icons?i=sass" alt="SASS" title="SASS" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" title="VSCode" />
-  <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" title="Eclipse" />
-
-  <!-- Adicionando manualmente o ícone do IntelliJ IDEA -->
-  <img src="https://cdn.simpleicons.org/intellijidea/000000" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
-
-  <!-- Adicionando manualmente o ícone do SQL Server -->
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL Server" title="SQL Server" />
-</div>
-
+  <!-- Banco de Dados -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="40" />
+</p>
 
 
 ---
