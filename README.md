@@ -195,7 +195,7 @@ Estou sempre em busca de aprendizado, melhoria contínua e colaboração em proj
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=AmomReis&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmomReis)](https://github.com/anuraghazra/github-readme-stats)
+  
 <img 
       align="left" 
       alt="GitHub Stats" 
