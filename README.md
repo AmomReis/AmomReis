@@ -1,6 +1,6 @@
-<!-- GIF animado de abertura -->
+<!-- Animação de digitação com largura suficiente -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&width=435&lines=Ol%C3%A1%2C+me+chamo+Amom+Reis!;Sou+desenvolvedor+Back-end+Java+com+Spring+Boot;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F78C6C&width=580&lines=Ol%C3%A1%2C+me+chamo+Amom+Reis!;Sou+Desenvolvedor+Back-end+Java+com+Spring+Boot;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o" alt="Typing SVG" />
 </p>
 
 # 👨🏻‍💻 Amom Reis
@@ -29,7 +29,7 @@ Estou sempre em busca de **aprendizado contínuo**, evolução técnica e colabo
 ### 🔧 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,hibernate,mysql,postgres,git,docker,postman,maven,gradle,html,css,sass,bootstrap,mongodb,vscode,intellij,eclipse" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,hibernate,mysql,postgres,mssql,mongodb,git,docker,postman,maven,gradle,html,css,sass,bootstrap,vscode,intellij,eclipse" />
 </p>
 
 ---
