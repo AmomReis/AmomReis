@@ -21,7 +21,7 @@
 
 ### 📌 Sobre
 
-Sou **Amom Reis**, estudante de **Engenharia de Software na UEPA (4º ano)**, apaixonado por desenvolvimento **Back-end com Java e Spring Boot**. Tenho como objetivo criar soluções **robustas, escaláveis e confiáveis**, especialmente voltadas para pequenos negócios.
+Sou **Amom Reis**, estudante de **Engenharia de Software na UEPA (3º ano)**, apaixonado por desenvolvimento **Back-end com Java e Spring Boot**. Tenho como objetivo criar soluções **robustas, escaláveis e confiáveis**, especialmente voltadas para pequenos negócios.
 
 💡 Atualmente, estou desenvolvendo uma **plataforma micro SaaS**, focada em confiabilidade, usabilidade e crescimento em parceria com o cliente.
 
