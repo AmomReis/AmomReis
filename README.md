@@ -1,4 +1,12 @@
+<!-- GIF animado de abertura -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&width=435&lines=Ol%C3%A1%2C+me+chamo+Amom+Reis!;Sou+desenvolvedor+Back-end+Java+com+Spring+Boot;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o" alt="Typing SVG" />
+</p>
+
 # 👨🏻‍💻 Amom Reis
+
+[![Status](https://img.shields.io/badge/Back--End--Java-Spring%20Boot-6DB33F?style=for-the-badge&logo=java&logoColor=white)](https://github.com/AmomReis)
+[![Status](https://img.shields.io/badge/MicroSaaS-Ativo-%23FFB86C?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/AmomReis)
 
 **`Desenvolvedor Back-end | Engenharia de Software`**
 
@@ -18,44 +26,39 @@ Estou sempre em busca de **aprendizado contínuo**, evolução técnica e colabo
 
 ---
 
-### 🤖 Languages, Technologies & Tools
+### 🔧 Tecnologias & Ferramentas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="30" title="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="30" title="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" width="30" title="Hibernate" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="30" title="Maven" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="30" title="Gradle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="30" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="30" title="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" width="30" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="30" title="SASS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="30" title="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30" title="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="30" title="IntelliJ IDEA" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="30" title="Eclipse" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" title="VS Code" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,hibernate,mysql,postgres,git,docker,postman,maven,gradle,html,css,sass,bootstrap,mongodb,vscode,intellij,eclipse" />
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+### 🏆 GitHub Trophies
 
-<p align="left">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmomReis&theme=onedark&margin-w=10&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
   <img 
     alt="Amom Reis GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=AmomReis&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=AmomReis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
   />
   <img 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmomReis&theme=dark&layout=compact&custom_title=Linguagens&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmomReis&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8" 
   />
 </p>
+
+---
+
+### 🚀 Sempre explorando novas possibilidades
+
+> “Aprender nunca esgota a mente.” — Leonardo da Vinci
