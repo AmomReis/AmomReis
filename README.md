@@ -1,7 +1,7 @@
 <!-- Animação de digitação com largura aumentada e texto simplificado -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&width=700&lines=Oi%2C+eu+sou+Amom+Reis!;Desenvolvedor+Back-end+Java;Spring+Boot+%7C+Solu%C3%A7%C3%B5es+Escal%C3%A1veis" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&width=700&lines=Sou+Amom+Reis!;Desenvolvedor+Back-end+Java;Spring+Boot+%7C+Solu%C3%A7%C3%B5es+Escal%C3%A1veis" 
     alt="Typing SVG" 
   />
 </p>
