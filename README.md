@@ -23,16 +23,54 @@ Gosto de aprender, evoluir e participar de projetos que impactam positivamente.
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
-  <!-- Ícones do skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,hibernate,mysql,postgres,mongodb,docker,git,postman,maven,gradle,html,css,sass,bootstrap,vscode,eclipse" />
-  
-  <!-- Ícone do IntelliJ IDEA -->
-  <img height="48" width="48" src="https://cdn.simpleicons.org/intellijidea/000000" alt="IntelliJ IDEA" title="IntelliJ IDEA" style="margin-left: 5px;"/>
+<style>
+  .icon-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+    padding: 16px;
+  }
 
-  <!-- Ícone do SQL Server -->
-  <img height="48" width="48" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL Server" title="SQL Server" style="margin-left: 5px;"/>
-</p>
+  .icon-container img {
+    width: 48px;
+    height: 48px;
+    transition: transform 0.2s ease;
+  }
+
+  .icon-container img:hover {
+    transform: scale(1.1);
+  }
+</style>
+
+<div class="icon-container">
+  <!-- skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring" />
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" title="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" title="Hibernate" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven" />
+  <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" title="Gradle" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=sass" alt="SASS" title="SASS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" title="VSCode" />
+  <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" title="Eclipse" />
+
+  <!-- Adicionando manualmente o ícone do IntelliJ IDEA -->
+  <img src="https://cdn.simpleicons.org/intellijidea/000000" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+
+  <!-- Adicionando manualmente o ícone do SQL Server -->
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL Server" title="SQL Server" />
+</div>
+
 
 
 ---
