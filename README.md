@@ -1,9 +1,8 @@
 <!-- Animação de digitação com largura aumentada e texto direto -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&width=750&lines=Olá,+sou+Amom+Reis!;Back-end+Java+com+Spring+Boot;Criando+soluções+escaláveis+com+tecnologia" 
-    alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&width=750&lines=Olá,+sou+Amom+Reis!;Desenvolvedor+Back-end;Spring+Boot+%7C+MicroSaaS" alt="Typing SVG" />
 </p>
+
 
 
 <h1 align="center">👨🏻‍💻 Amom Reis</h1>
