@@ -26,17 +26,10 @@ Gosto de aprender, evoluir e participar de projetos que impactam positivamente.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,kotlin,hibernate,mysql,postgres,mongodb,docker,git,postman,maven,gradle,html,css,sass,bootstrap,vscode,eclipse" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="50px" style="margin: 10px; animation: fadeIn 1.5s ease-in-out;" />
-  
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" height="50px" style="margin: 10px; animation: fadeIn 1.5s ease-in-out;" />
-</p>
+  <img height="30" src="https://cdn.simpleicons.org/intellijidea/blue" alt="IntelliJ" />
+  <img height="30" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL Server" />
 
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-</style>
+</p>
 
 ---
 
