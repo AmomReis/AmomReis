@@ -1,9 +1,7 @@
 <!-- Animação de digitação com largura aumentada e texto direto -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&width=750&lines=Olá,+sou+Amom+Reis!;Desenvolvedor+Back-end;Spring+Boot+%7C+MicroSaaS" alt="Typing SVG" />
+  <img src="https://github.com/AmomReis/SEU_REPO/assets/SEU_USUARIO/ID_DO_GIF.gif" alt="Apresentação Amom Reis" width="600"/>
 </p>
-
-
 
 <h1 align="center">👨🏻‍💻 Amom Reis</h1>
 
