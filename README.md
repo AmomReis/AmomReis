@@ -24,8 +24,16 @@ Gosto de aprender, evoluir e participar de projetos que impactam positivamente.
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,hibernate,mysql,postgres,mongodb,docker,git,postman,maven,gradle,html,css,sass,bootstrap,vscode,eclipse,idea-dark" />
+  <!-- Ícones do skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,hibernate,mysql,postgres,mongodb,docker,git,postman,maven,gradle,html,css,sass,bootstrap,vscode,eclipse" />
+  
+  <!-- Ícone do IntelliJ IDEA -->
+  <img height="48" width="48" src="https://cdn.simpleicons.org/intellijidea/000000" alt="IntelliJ IDEA" title="IntelliJ IDEA" style="margin-left: 5px;"/>
+
+  <!-- Ícone do SQL Server -->
+  <img height="48" width="48" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL Server" title="SQL Server" style="margin-left: 5px;"/>
 </p>
+
 
 ---
 
