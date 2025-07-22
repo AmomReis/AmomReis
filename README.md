@@ -1,6 +1,9 @@
-<!-- Animação de digitação com largura suficiente -->
+<!-- Animação de digitação com largura aumentada e texto simplificado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F78C6C&width=580&lines=Ol%C3%A1%2C+me+chamo+Amom+Reis!;Sou+Desenvolvedor+Back-end+Java+com+Spring+Boot;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&width=700&lines=Oi%2C+eu+sou+Amom+Reis!;Desenvolvedor+Back-end+Java;Spring+Boot+%7C+Solu%C3%A7%C3%B5es+Escal%C3%A1veis" 
+    alt="Typing SVG" 
+  />
 </p>
 
 # 👨🏻‍💻 Amom Reis
@@ -10,26 +13,18 @@
 
 **`Desenvolvedor Back-end | Engenharia de Software`**
 
-Hi there! I'm **Amom Reis**, a Software Engineering student at the **State University of Pará (UEPA)**, currently in my fourth year. I'm passionate about building **robust and scalable back-end applications**, with a particular focus on **Spring Boot** and the Java ecosystem.
+Sou **Amom Reis**, estudante de **Engenharia de Software na UEPA**, atualmente no 4º ano. Sou apaixonado por desenvolvimento **Back-end com Java e Spring Boot**, buscando sempre construir soluções robustas e escaláveis para o mundo real.
 
-At the moment, I'm developing a **micro SaaS platform** tailored to small businesses — aiming to deliver solutions that are **reliable, scalable**, and aligned with the evolving needs of my clients.
+Atualmente estou desenvolvendo uma **plataforma micro SaaS** voltada para pequenos negócios — com foco em confiabilidade e crescimento contínuo com o cliente.
 
-I'm constantly seeking to improve, learn new technologies, and collaborate on projects that create real impact.
-
----
-
-Olá! Me chamo **Amom Reis**, sou estudante de **Engenharia de Software na Universidade do Estado do Pará (UEPA)** e tenho grande paixão pelo desenvolvimento **back-end**, especialmente com **Java e Spring Boot**.
-
-Atualmente, estou desenvolvendo uma **plataforma micro SaaS** voltada para pequenos negócios — com o objetivo de oferecer soluções **confiáveis, escaláveis** e que acompanhem o crescimento das necessidades dos meus clientes.
-
-Estou sempre em busca de **aprendizado contínuo**, evolução técnica e colaboração em projetos que façam a diferença.
+Gosto de aprender, evoluir e participar de projetos que impactam positivamente.
 
 ---
 
-### 🔧 Tecnologias & Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,hibernate,mysql,postgres,mssql,mongodb,git,docker,postman,maven,gradle,html,css,sass,bootstrap,vscode,intellij,eclipse" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,hibernate,mysql,postgres,mongodb,mssql,docker,git,postman,maven,gradle,html,css,sass,bootstrap,vscode,intellij,eclipse" />
 </p>
 
 ---
@@ -59,6 +54,6 @@ Estou sempre em busca de **aprendizado contínuo**, evolução técnica e colabo
 
 ---
 
-### 🚀 Sempre explorando novas possibilidades
+### 🚀 Sempre Explorando
 
 > “Aprender nunca esgota a mente.” — Leonardo da Vinci
