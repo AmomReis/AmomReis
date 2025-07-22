@@ -37,6 +37,7 @@ Gosto de aprender, evoluir e participar de projetos que impactam positivamente.
   to { opacity: 1; transform: translateY(0); }
 }
 </style>
+
 ---
 
 ### 🏆 GitHub Trophies
